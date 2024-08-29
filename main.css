@@ -1,0 +1,21 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    font-size: 20px;
+    font-family: verdana;
+}
+
+.header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.lista_header {
+    display: flex;
+    list-style: none;
+}
+
+.lista_header li{
+    padding: 50px;
+}
